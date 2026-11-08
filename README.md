@@ -6,7 +6,7 @@
 
 ```console
 $ whoami
-mattia: *lookareyellow* is my nickname. Say "Look, are yellow" fast in English and it sounds like my surname: Lucariello.
+*lookareyellow*. Say "Look, are yellow" fast in English and it sounds like my surname: Lucariello.
 ```
 
 ### 🔭 Right now
